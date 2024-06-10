@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1013781944564",
+    "project_id": "pasien-b76d3",
+    "storage_bucket": "pasien-b76d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1013781944564:android:b8f0b65e384fe46de566a1",
+        "android_client_info": {
+          "package_name": "com.example.rumah_sakit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCD5yeuHcd2DjWn5WhN28b_qrBiUnjAZ0U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
